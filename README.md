@@ -42,6 +42,7 @@ Notices
 •	From Address ID
 •	Rating (1 ~ 10)
 •	Created At (yyyy-mm-dd h:i:s)
+
 Walk Request
 •	ID
 •	Owner ID (UT2)
@@ -56,6 +57,7 @@ Walk Request
 •	Approved At (yyyy-mm-dd h:i:s)
 •	Rejected At (yyyy-mm-dd h:i:s)
 •	Completed At (yyyy-mm-dd h:i:s)
+
 Address
 •	ID
 •	Address Line 1 (String)
@@ -63,6 +65,7 @@ Address
 •	City (String)
 •	State (String)
 •	Country (String) [Default Canada]
+
 Chat (Research on Firebase to integrate)
 •	Walk Request ID (Nullable)
 •	Owner ID
