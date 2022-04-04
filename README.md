@@ -71,6 +71,3 @@ Chat (Research on Firebase to integrate)
 •	Message
 •	Created At
 •	Title 
-
-
-![image](https://user-images.githubusercontent.com/97565727/161468096-8f528f4d-6bff-417f-9128-d0bddf84f41e.png)
